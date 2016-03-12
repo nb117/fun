@@ -4,4 +4,6 @@
 
 var c = require("skilstak-colors");
 
-console.log(c.rc() + "hello world");
+while (true) {
+  console.log(c.rc() + "nyeh heh heh");
+}
